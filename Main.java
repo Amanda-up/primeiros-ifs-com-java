@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class index {
+public class Main {
 
     public static void main(String[] args) {
         Scanner leitorDeEntradas = new Scanner(System.in);
