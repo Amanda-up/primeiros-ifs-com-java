@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Desafio {
+public class index {
 
-    public static void main(Stings[] args) {
+    public static void main(String[] args) {
         Scanner leitorDeEntradas = new Scanner(System.in);
         float valorSalario = leitorDeEntradas.nextFloat();
         float valorBeneficios = leitorDeEntradas.nextFloat();
